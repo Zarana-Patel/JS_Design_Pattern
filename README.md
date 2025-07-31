@@ -22,16 +22,21 @@ Each category includes one or more **React applications** that demonstrate how t
 ## Repository Structure
 
     js-design-patterns/
-    ├── Behavioral_Pattern/
+    ├── Behavioral_Pattern/  
+    │   └── Observer_pattern.js
     │   └── observer-react-app/
     ├── Creational_Pattern/
-    │   ├── factory-react-app/
-    │   └── singleton-react-app/
+         ├── Factory_pattern.js
+    │    ├── factory-react-app/
+         ├── Singleton_pattern.js
+    │    └── singleton-react-app/
     ├── Structural_Pattern/
+        ├── Decorator_pattern1.js 
     │   ├── decorator-react-app/
+        ├── Module_patern.js
+        ├── Revealing_Module_pattern.js
     │   └── singleton-revealing-react-app/
     └── README.md
-
 ---
 
 ## Getting Started
