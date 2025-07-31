@@ -1,0 +1,12 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore node_modules in all sub-apps
+**/node_modules
+
+# Ignore build/dist if generated
+**/build
+**/dist
+
+# Log files
+*.log
